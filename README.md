@@ -4,7 +4,7 @@
 
 ## Λήψη
 
-Τρέχουσα έκδοση: **43** — [Mnimi_v43.apk](https://github.com/gdimitria/mnimi-download/raw/main/Mnimi_v43.apk) (περίπου 32 MB)
+Τρέχουσα έκδοση: **43** — [Λήψη Mnimi_v43.apk](https://mnimi.dimitriadis.consulting/download/) (περίπου 32 MB)
 
 ## Εγκατάσταση
 

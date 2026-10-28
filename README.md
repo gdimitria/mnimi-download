@@ -4,7 +4,7 @@
 
 ## Λήψη
 
-Τρέχουσα έκδοση: **58** — [Λήψη Mnimi_v58.apk](https://mnimi.dimitriadis.consulting/download/) (περίπου 34 MB)
+Τρέχουσα έκδοση: **59** — [Λήψη Mnimi_v59.apk](https://mnimi.dimitriadis.consulting/download/) (περίπου 34 MB)
 
 ## Εγκατάσταση
 

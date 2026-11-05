@@ -4,7 +4,7 @@
 
 ## Λήψη
 
-Τρέχουσα έκδοση: **90** — [Λήψη Mnimi_v90.apk](https://mnimi.dimitriadis.consulting/download/) (περίπου 36 MB)
+Τρέχουσα έκδοση: **91** — [Λήψη Mnimi_v91.apk](https://mnimi.dimitriadis.consulting/download/) (περίπου 36 MB)
 
 ## Εγκατάσταση
 

@@ -4,7 +4,7 @@
 
 ## Λήψη
 
-Τρέχουσα έκδοση: **164** — [Λήψη Mnimi_v164.apk](https://mnimi.dimitriadis.consulting/download/) (περίπου 39 MB)
+Τρέχουσα έκδοση: **165** — [Λήψη Mnimi_v165.apk](https://mnimi.dimitriadis.consulting/download/) (περίπου 39 MB)
 
 ## Εγκατάσταση
 
